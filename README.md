@@ -16,12 +16,12 @@
       npm install express mongoose dotenv bcryptjs jsonwebtoken express-async-handler
       sudo npm install -g --force nodemon
       ```
-3. **Veritabanı İşlemleri**
+3. **Veritabanı İşlemleri:**
 
    MongoDB Compass’ı açın ve “Connect” diyerek bağlanın.  
    Yeni bir database oluşturup `.env` içindeki `MONGO_URI` değerini girin.
 
-4. **Başlatmak için**
+4. **Başlatmak için:**
 
    ```bash
    cd src
