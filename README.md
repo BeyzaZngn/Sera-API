@@ -2,24 +2,32 @@
 
 ## Kurulum
 
+# Sera Yönetim Sistemi API
+
 1. `.env` dosyasını oluşturun:
-MONGO_URI=mongodb://.......
-JWT_SECRET=......
-PORT=3000
 
+      ```
+      MONGO_URI=…
+      JWT_SECRET=…
+      PORT=3000
+      ```
 2. Paketleri yükleyin:
-```bash
-npm init -y
-npm install express mongoose dotenv bcryptjs jsonwebtoken express-async-handler
-sudo npm install -g --force nodemon
 
-**3. Veritabanı İşlemleri:**
-MongoDB ve MongoDB Compass indirin ve connect diyerek Compass üzerinden bağlanın. 
-Create database diyerek bir veritabanı oluşturulup, MONGO_URI .env dosyasına yapıştırılacak.
+      ```bash
+      npm init -y
+      npm install express mongoose dotenv bcryptjs jsonwebtoken express-async-handler
+      sudo npm install -g --force nodemon
+      ```
+3. **Veritabanı İşlemleri**
 
-**4.Başlatmak için:**
-cd src
-nodemon server.js
+   MongoDB Compass’ı açın ve “Connect” diyerek bağlanın.  
+   Yeni bir database oluşturup `.env` içindeki `MONGO_URI` değerini girin.
+
+4. **Başlatmak için**
+
+   ```bash
+   cd src
+   nodemon server.js
 
 
 
