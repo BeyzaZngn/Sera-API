@@ -2,8 +2,6 @@
 
 ## Kurulum
 
-# Sera Yönetim Sistemi API
-
 1. `.env` dosyasını oluşturun:
 
       ```
