@@ -23,6 +23,7 @@
 
 4. **Başlatmak için:**
 
+   cd sera-api   
    ```bash
    cd src
    nodemon server.js
