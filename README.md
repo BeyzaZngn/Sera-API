@@ -32,6 +32,29 @@
 
 <img src="sera-api/images/Health-Check.png" alt="Health-Check" width="200"/>
 
+<img src="sera-api/images/Register.png" alt="Health-Check" width="200"/>
+
+<img src="sera-api/images/Login.png" alt="Health-Check" width="200"/>
+
+<img src="sera-api/images/Create Greenhouse.png" alt="Health-Check" width="200"/>
+
+<img src="sera-api/images/List Greenhouses.png" alt="Health-Check" width="200"/>
+
+<img src="sera-api/images/Get Greenhouse by ID.png" alt="Health-Check" width="200"/>
+
+<img src="sera-api/images/Update Greenhouse.png" alt="Health-Check" width="200"/>
+
+<img src="sera-api/images/Create Sensor Data.png" alt="Health-Check" width="200"/>
+
+<img src="sera-api/images/Get Sensor Data.png" alt="Health-Check" width="200"/>
+
+
+
+
+
+
+
+
 
 
 
