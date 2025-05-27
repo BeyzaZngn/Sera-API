@@ -30,7 +30,7 @@
 
 ## API Dokümantasyonu
 
-<img src="images/Health-Check.png" alt="Health-Check" width="200"/>
+<img src="sera-api/images/Health-Check.png" alt="Health-Check" width="200"/>
 
 
 
